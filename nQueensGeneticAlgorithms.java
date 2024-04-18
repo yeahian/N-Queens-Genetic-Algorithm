@@ -116,29 +116,6 @@ public class nQueensGeneticAlgorithms {
 
 
 
-
-    /*
-        IAN NOTES
-
-        use a fitness function to determine which variations will move on to the next generation
-            - select the best ones by calculating how many bad moves they made, until the program works correctly
-
-        FUNCTIONS
-            chromosome creation
-
-            check for collisions
-
-            fitness
-
-            mutation
-
-            crossover
-
-            parentSelection
-
-         */
-
-
     /*
     This function is the main part of the program; main calls this as many times as we the user would like
      */
