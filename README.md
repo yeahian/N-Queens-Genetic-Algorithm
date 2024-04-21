@@ -11,7 +11,9 @@ This program uses java to efficiently solve the N queens problem using my knowle
 
 Generation: 116 Average Fitness: 2.454
  _ _ _ _ Q _ _ _ _ _ 
+ 
  _ _ _ _ _ _ Q _ _ _ 
+ 
  _ Q _ _ _ _ _ _ _ _ 
  _ _ _ _ _ _ _ _ _ Q 
  _ _ _ _ _ _ _ Q _ _ 
