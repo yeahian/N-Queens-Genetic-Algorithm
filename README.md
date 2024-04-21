@@ -15,17 +15,17 @@ This program uses java to efficiently solve the N queens problem using my knowle
 ----Example output of the solution for a 10x10 board size----
 
 Generation: 116 Average Fitness: 2.454
-_ _ _ _ Q _ _ _ _ _ 
-_ _ _ _ _ _ Q _ _ _ 
-_ Q _ _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ _ Q 
-_ _ _ _ _ _ _ Q _ _ 
-_ _ _ Q _ _ _ _ _ _ 
-Q _ _ _ _ _ _ _ _ _ 
-_ _ Q _ _ _ _ _ _ _ 
-_ _ _ _ _ _ _ _ Q _ 
-_ _ _ _ _ Q _ _ _ _ 
-Solution found in generation: 116
+ _ _ _ _ Q _ _ _ _ _ 
+ _ _ _ _ _ _ Q _ _ _ 
+ _ Q _ _ _ _ _ _ _ _ 
+ _ _ _ _ _ _ _ _ _ Q 
+ _ _ _ _ _ _ _ Q _ _ 
+ _ _ _ Q _ _ _ _ _ _ 
+ Q _ _ _ _ _ _ _ _ _ 
+ _ _ Q _ _ _ _ _ _ _ 
+ _ _ _ _ _ _ _ _ Q _ 
+ _ _ _ _ _ Q _ _ _ _ 
+ Solution found in generation: 116
 Time taken: 0.047 seconds
 
 
