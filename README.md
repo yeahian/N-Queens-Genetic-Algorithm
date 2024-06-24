@@ -1,8 +1,6 @@
 # N-Queens-Genetic-Algorithm
 Java Solution to the N queens problem using genetic algorithms
 
-***Switch to code view to see the correct output***
-
 PROBLEM: The N queens problem deals with how many queen pieces you can fit on a chess board of size n. As long as n > 4, you can fit n number of queens on an nxn size board without attacking each other. The goal is to use genetic algorithms to solve this problem in a time efficient manner. 
 
 This program uses java to efficiently solve the N queens problem using my knowledge of AI. The genetic algorithms work by randomly generating a population of possible solutions, and based on a fitness funciton of how close we are to a solution, we select which children should move on to the next generation. We also consider crossover and mutation functions which alter the nth generation so that n+1 will have variation. This is what leads us closer to a solution as the program progresses. 
